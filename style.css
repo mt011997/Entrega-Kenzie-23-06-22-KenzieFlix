@@ -1,0 +1,115 @@
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@100;200;300;400;500&display=swap');
+
+body {
+
+    background-color: black;
+    
+}
+
+header, img{ 
+
+    text-align: center;
+	
+}
+
+h2  {   
+
+	font-family: 'IBM Plex Sans', sans-serif;
+    text-align: center;
+    color:white;
+    margin-top: 100px;
+	font-size: 30px;
+		
+}
+
+main {
+
+	max-width: 700px;
+	display: flex;
+	justify-content: center;
+    margin: 0 auto; 
+    gap: 26px;
+	margin-top: 150px;
+   
+}
+
+main div a {
+
+	border: 1px solid black;
+	width: 160px;
+	
+}
+
+.avatar{
+
+	width: 160px;
+	border-radius: 10px;
+	border: 1px solid black;
+
+}
+
+.avatar:hover {
+
+	border: 1px solid white;
+		
+}
+
+.adicionar-perfil {
+
+	width: 160px;
+	border-radius: 10px;
+	border: 1px solid black;
+
+}
+
+.adicionar-perfil:hover {
+
+	filter: brightness(2) ;
+	border: 1px	solid white;
+	
+
+}
+
+main div p{
+
+	color: white;
+	text-align: center;
+	font-family: 'IBM Plex Sans', sans-serif;
+
+}
+
+footer {
+
+	margin-top: 80px;
+	margin-bottom: 80px;
+	text-align: center;
+
+}
+
+footer a {
+
+	text-align: center;
+	text-decoration: none;
+	background-color: black;
+	color: white;
+	border: 1px solid white;
+	padding: 15px 44px;
+	border-radius: 10px;
+	font-family: 'IBM Plex Sans', sans-serif;
+			
+}
+
+footer a:hover {
+
+	background-color: white;
+	color:black;
+	
+}
+
+
+
+
+
+
+	
+
